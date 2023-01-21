@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+allahabad,175,5954391,3131807,2822584,581819,736361,754726,694755,541676,455067,392999,377195,305313,259717,200019,166945,165873,111881,78881,36694,57844,5102041,796756,13782,4377,4391,2247,305,1309851,7955,4636585

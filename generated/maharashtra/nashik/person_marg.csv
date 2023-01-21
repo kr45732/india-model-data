@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+nashik,516,6107187,3157186,2950001,585461,597624,632261,594633,611895,558759,474438,425672,363168,303974,245383,188615,172415,147805,98321,48233,47697,5237009,693052,23946,8912,94783,38212,1795,554687,1564369,3988131

@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+rajnandgaon,408,1537133,762855,774278,146698,158648,173245,155473,144827,120024,110235,109586,101331,83266,62434,50386,45242,32032,22813,9722,10439,1399658,23648,5193,3761,28541,8187,67444,156623,405194,975316

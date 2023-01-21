@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+ranchi,364,2914253,1494937,1419316,269974,318793,340174,306556,261237,245559,211030,202274,167658,144976,108855,90068,84206,56399,35965,15625,18048,1612239,410759,193974,4826,932,2733,677445,152943,1042016,1719294

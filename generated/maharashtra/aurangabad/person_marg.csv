@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+aurangabad,515,3701282,1924469,1776813,377747,376409,387150,370165,373898,326627,276517,254863,211442,166949,130418,101700,104636,99577,66868,30687,38046,2545438,786677,15991,5142,309093,30981,1005,539368,143366,3018548

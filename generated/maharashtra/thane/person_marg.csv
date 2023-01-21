@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+thane,517,11060148,5865078,5195070,925381,982539,994881,977232,1147520,1156966,991627,894455,741183,614623,484200,366223,287765,183967,119413,62929,75424,8716055,1355630,280700,39149,449617,172052,9862,730089,1542451,8787608

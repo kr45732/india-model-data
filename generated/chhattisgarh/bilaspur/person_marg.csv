@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+bilaspur,406,2663629,1351574,1312055,283986,305915,310771,271760,240967,212085,189933,180638,155735,128726,96964,76691,76343,54265,38956,17567,19328,2540763,57973,20745,6373,2979,2357,29122,552992,498469,1612168

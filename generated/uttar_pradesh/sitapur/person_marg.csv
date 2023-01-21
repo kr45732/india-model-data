@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+sitapur,154,4483992,2375264,2108728,493654,599481,598997,479827,365104,325320,300981,292422,228462,179122,135632,111093,127554,86674,62272,25686,39407,3555450,893725,6579,11611,2663,1410,79,1446427,1602,3035963

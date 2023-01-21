@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+siddharthnagar,184,2559297,1295095,1264202,320484,384277,347043,267015,195854,175723,151764,144438,111945,95855,76414,71019,83925,55096,37752,15108,20663,1789704,748073,3042,681,11964,179,356,408763,12021,2138513

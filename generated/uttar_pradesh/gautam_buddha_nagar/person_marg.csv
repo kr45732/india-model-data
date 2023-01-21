@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+gautam_buddha_nagar,141,1648115,890214,757901,170358,182183,179980,169550,165170,148407,127334,115586,89999,70048,50451,38178,34691,23731,18020,9449,14342,1394025,215500,7366,9261,895,4518,91,216105,2215,1429795

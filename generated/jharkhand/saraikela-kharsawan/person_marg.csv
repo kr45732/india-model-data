@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+saraikela-kharsawan,369,1065056,544411,520645,109803,120592,118908,101849,94209,89614,76674,73430,62387,53401,40795,33238,35565,24109,14567,6183,7085,709016,63588,8113,1114,187,72,280469,56195,374642,634219

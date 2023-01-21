@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+thiruvananthapuram,601,3301427,1581678,1719749,216891,227143,263246,255313,266969,258879,245395,257169,241071,245603,202305,188288,147631,108793,74670,48531,49806,2194057,452915,630573,404,301,76,1082,372977,26759,2901691

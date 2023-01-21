@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+pashchimi_singhbhum,368,1502338,749385,752953,180512,194131,188117,149027,131468,117732,97881,95491,84353,75580,55503,42495,40091,25349,14022,5283,4892,423937,38103,87587,946,389,52,945864,56986,1011296,434056

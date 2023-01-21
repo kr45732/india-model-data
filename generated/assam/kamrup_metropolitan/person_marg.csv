@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+kamrup_metropolitan,322,1253938,647585,606353,86740,97775,109683,112387,124612,128256,113804,113605,93183,80908,60329,42962,34798,21381,14992,7890,8556,1064412,151071,18810,3679,1627,9250,170,101789,75121,1077028

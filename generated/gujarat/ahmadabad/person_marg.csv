@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+ahmadabad,474,7214225,3788051,3426174,590748,625887,669168,679291,710749,677015,604131,540179,476673,422912,351026,269524,214045,140102,103666,54772,65017,6042416,883238,50754,14542,4518,209287,2055,759483,89138,6365604

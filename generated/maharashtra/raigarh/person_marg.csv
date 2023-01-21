@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+raigarh,520,2634200,1344345,1289855,212756,221412,243177,239580,253293,243936,215669,205190,178369,149111,122160,95150,82444,64716,46748,24543,26980,2239370,227465,17452,7477,121791,12260,1159,134952,305125,2194123

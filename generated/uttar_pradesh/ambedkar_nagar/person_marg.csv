@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+ambedkar_nagar,178,2397888,1212410,1185478,218466,297824,314511,295632,208988,164073,148295,147499,119923,99512,77499,68179,76704,58321,41651,18650,26230,1985654,401678,2536,869,1817,235,33,591125,746,1806017

@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+janjgir_-_champa,405,1619707,815717,803990,154011,172880,189918,182341,150923,125041,109567,104795,92524,76286,58218,48637,54244,42256,29858,13282,14403,1597089,14173,2926,635,556,707,2220,397908,187196,1034603

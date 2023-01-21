@@ -1,0 +1,3 @@
+district,distid,total_pop,SexLabel,SexLabel,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,Age,religion,religion,religion,religion,religion,religion,religion,caste,caste,caste
+,distid,total_pop,male,female,0to4,5to9,10to14,15to19,20to24,25to29,30to34,35to39,40to44,45to49,50to54,55to59,60to64,65to69,70to74,75to79,80p,hindu,muslim,christian,sikh,buddhist,jain,other,SC,ST,other
+mumbai_suburban,518,9356962,5031323,4325639,648076,701121,767735,834831,999427,985170,837047,764467,649785,560702,452439,355509,287613,189642,131091,77042,82230,6337132,1795788,322476,47288,469568,343639,18345,583302,104560,8669100
